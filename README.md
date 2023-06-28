@@ -9,6 +9,11 @@ The project utilizes a neural network model to predict customer churn. The model
 
 The neural network architecture consists of an input layer, seven hidden layers, and an output layer. Each layer consists of 6 neurons that perform computations and pass information forward through weighted connections. The model is trained using backpropagation and optimization techniques to minimize prediction errors and improve accuracy.
 
+## Schema
+
+![Blank diagram (2)](https://github.com/jpkrajewski/ANN-banking-customer-churn/assets/95274389/88d63960-2fc8-494a-94c0-1ff1cf8bb2a7)
+
+
 ## Installation
 
 1. Clone the repository:
